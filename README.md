@@ -36,7 +36,8 @@
 - Create a dictionary with the data to plot the elbow curve.
 - Plot a line chart with all the inertia values computed with the different values of k to visually identify the optimal value for k.
 
-![Screenshot 2024-05-27 002751](https://github.com/carojasp12/Crypto-Clustering/assets/152667250/0713a950-5cd0-41d5-814f-d820831dbb7d)
+![Screenshot 2024-05-27 003321](https://github.com/carojasp12/Crypto-Clustering/assets/152667250/13ba0c25-5bf3-43b4-b780-700ab284f342)
+
 
 ### Cluster Cryptocurrencies with K-means Using the PCA Data
 - Initialize the K-means model with the best value for k.
@@ -45,5 +46,6 @@
 - Create a copy of the DataFrame with the PCA data and add a new column to store the predicted clusters.
 - Create a scatter plot using hvPlot
 
-![Screenshot 2024-05-27 002817](https://github.com/carojasp12/Crypto-Clustering/assets/152667250/4656ef51-73eb-4432-a4fb-7761cc8ff6e1)
+![Screenshot 2024-05-27 003234](https://github.com/carojasp12/Crypto-Clustering/assets/152667250/1940ddcb-69e3-4412-9b6c-fe1f2e0f4767)
+
 
